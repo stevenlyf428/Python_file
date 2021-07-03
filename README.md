@@ -33,7 +33,7 @@ Python是如今最火的编程语言，Python作为一个胶水语言，广泛�
 
 ### 进阶篇之高级语法篇
 1、
-[Python Cookbook》翻译](https://github.com/yidao620c/python3-cookbook)
+[《Python Cookbook》翻译](https://github.com/yidao620c/python3-cookbook)
 * 豆瓣 9.4
 * 已开源
 
